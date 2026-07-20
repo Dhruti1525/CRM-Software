@@ -10,7 +10,6 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
   "lint": "eslint ."
-}
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
